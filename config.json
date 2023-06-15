@@ -1,0 +1,9 @@
+{
+  "prefix": ".",
+     "token": "",
+     "mongourl": "mongodb+srv://nuttynuke:nuttynuke@cluster0.l47hr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "status":{
+    		"name": ".help",
+    		"type": "dnd"
+    	}
+}
